@@ -1,0 +1,9 @@
+{
+    "emps" : 
+    [
+        {"id": 1, "name": "Rozat", "surname": "Cyrielle", "sex": "F", "email": "cr@capgemini.com"},
+        {"id": 2, "name": "Ghermaoui", "surname": "Laetitia", "sex": "F", "email": "lg@capgemini.com"},
+        {"id": 3, "name": "Folliet", "surname": "Nicolas", "sex": "H", "email": "nf@capgemini.com"},
+        {"id": 4, "name": "Aouidet", "surname": "Karim", "sex": "H", "email": "ka@capgemini.com"}
+    ]
+}
